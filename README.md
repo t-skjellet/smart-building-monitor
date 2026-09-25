@@ -23,6 +23,7 @@ Eine RESTful API zur Erfassung und Verwaltung von Raumklima-Daten (Temperatur, L
 
 2.  Virtuelle Umgebung erstellen und aktivieren:
 
+    ```bash
     python -m venv venv
     source venv/bin/activate  # Unter Windows: venv\Scripts\activate
 
@@ -38,4 +39,5 @@ Eine RESTful API zur Erfassung und Verwaltung von Raumklima-Daten (Temperatur, L
 
 5.  Die interaktive Dokumentation aufrufen:
 
+    ```bash
     Öffne http://127.0.0.1:8000/docs im Browser.
